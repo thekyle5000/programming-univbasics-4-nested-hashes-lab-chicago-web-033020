@@ -111,6 +111,10 @@ def changing_alan
         :languages => ["C"]
       }
     }
+    
+    programmer_hash[:alan_kay] = "GUI"
+    
+    programmer_hash
 
 end
 
